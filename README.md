@@ -186,7 +186,7 @@ Open to: AI Research • Enterprise AI • Consulting • Open Source
 <div align="center">
 
 
-⭐ “Building the future, one intelligent system at a time”
+⭐ “Together we learn, better we grow”
 
 Last Updated: November 2025
 
