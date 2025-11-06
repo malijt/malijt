@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey, I'm Muhammad Ali  
-### 🤖 Gen AI/ML Engineer | Team Lead | Building Intelligent Systems at Scale
+### 🚀 AI & Software Engineer – Generative AI, LLMs & Agents | 💡 Prompt & Context Engineering | 🐍 Python (Django, FastAPI) | 🤖 Automation | 🛰️ AI/ML Research (Deep Learning, Remote Sensing)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ali-jt)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdotali533@gmail.com)
@@ -124,19 +124,6 @@ Computer Vision in Precision Agriculture
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-<br>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🏆 Key Achievements
 
 <div align="center">
@@ -174,7 +161,7 @@ class MuhammadAli:
             "Microservices", "REST APIs", "Event-Driven Systems",
             "Database Optimization", "Message Queues"
         ]
-
+```
 
 ⸻
 
@@ -204,4 +191,4 @@ Open to: AI Research • Enterprise AI • Consulting • Open Source
 Last Updated: November 2025
 
 </div>
-```
+
